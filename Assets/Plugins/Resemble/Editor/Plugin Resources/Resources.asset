@@ -62,13 +62,13 @@ MonoBehaviour:
     fileName: AnswerBot.wav
     clipUUID: 
     lastCheckTime: 0
-    lastStateTime: 139.483330459
+    lastStateTime: 41469.250077334
     deleteClipAtEnd: 0
     needToBeRefresh: 0
     error:
-      exist: 0
-      code: 0
-      message: 
+      exist: 1
+      code: -1
+      message: Timout - Please, check your connection or retry later.
   - currentTask:
       uri: 
       data: 
@@ -86,10 +86,35 @@ MonoBehaviour:
     fileName: AnswerBot.wav
     clipUUID: 
     lastCheckTime: 0
-    lastStateTime: 189.05710479200002
+    lastStateTime: 41469.250084459
     deleteClipAtEnd: 0
     needToBeRefresh: 0
     error:
-      exist: 0
-      code: 0
-      message: 
+      exist: 1
+      code: -1
+      message: Timout - Please, check your connection or retry later.
+  - currentTask:
+      uri: 
+      data: 
+      result: 
+      type: 0
+      status: 0
+      time: 0
+      error:
+        exist: 0
+        code: 0
+        message: 
+    notificationLink: {fileID: -7829481213900429424, guid: 4a0d763b8c55c01459703169c0fc7875,
+      type: 2}
+    saveDirectory: Assets/Plugins/Resemble/Examples/Phonemes/Audio/Example_BlendShape
+    requestName: Example_BlendShape > Hey buddy
+    fileName: Hey buddy.wav
+    clipUUID: 1a57a0f5
+    lastCheckTime: 0
+    lastStateTime: 41438.229930459005
+    deleteClipAtEnd: 0
+    needToBeRefresh: 0
+    error:
+      exist: 1
+      code: 404
+      message: Not Found -- The specified endpoint could not be found.

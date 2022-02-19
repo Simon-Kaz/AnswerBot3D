@@ -10,7 +10,7 @@ public class PhonemesToBlendShapes : PhonemeReader
     //Hidden
     [HideInInspector] public int[] remap;
 
-    protected private void Awake()
+    private protected void Awake()
     {
         audio.clip = clip.clip;
     }

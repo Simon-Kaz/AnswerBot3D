@@ -1321,14 +1321,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a99a78cd3c614fc49b5a86daec675d65, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: -7829481213900429424, guid: 4a0d763b8c55c01459703169c0fc7875, type: 2}
+  clip: {fileID: -5086382760823186948, guid: 4a0d763b8c55c01459703169c0fc7875, type: 2}
   audio: {fileID: 686196725617811525}
   smoothFactor: 0.6
   smoothValues: []
   sleeping: 0
   renderer: {fileID: 8002674739784942678}
   factor: 1.2
-  remap: 09000000080000000700000006000000000000000500000004000000030000000200000001000000
+  remap: 
 --- !u!114 &686196725617811527
 MonoBehaviour:
   m_ObjectHideFlags: 0
